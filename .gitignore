@@ -1,6 +1,6 @@
 /ui/main.ui
 /1.pdf
 /.idea/
-./build/
-./dist/
-./main.spec
+**/build/
+**/dist/
+**/main.spec
